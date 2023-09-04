@@ -9,6 +9,9 @@
 <a href="https://linkedin.com/in/aryan-seth-9190b1196" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.com/mandelakalam12364/" target="_blank">
+<img src=https://iconscout.com/icon/leetcode-3521542 alt=leetcode style="margin-bottom: 5px;" />
+</a>  
   
 
 
@@ -35,7 +38,7 @@ I'm a passionate software developer with a love for clean code and innovative so
 - ⚡ Fun fact: I love playing with Sudoku and Javascript  
   
 
-- How to reach me seth.aryan605@gmail.com  
+- How to reach me: seth.aryan605@gmail.com  
   
 
 - All of my projects are available at [aryan-prog.github.io/google-portfolio/](aryan-prog.github.io/google-portfolio/)  
@@ -91,7 +94,7 @@ I'm a passionate software developer with a love for clean code and innovative so
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=aryan-prog&&style=flat-square)
   
 
 <br/>  
