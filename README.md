@@ -1,17 +1,27 @@
-# Hi, I'm  Aryan Seth! 👋
+<h1 align="center">Hi 👋, I'm Aryan Seth</h1>
+<h3 align="center">I'm a passionate software developer with love for clean code and innovative solutions. My main focus is on web development using technologies like ReactJS, Javascript and related technologies. You can find me reading or enjoying a cup of coffee when I'm not coding.</h3>
 
-I'm a passionate software developer with a love for clean code and innovative solutions. My main focus is on web development using technologies like ReactJS, Javascript and related technologies. You can find me reading or enjoying a cup of coffee when I'm not coding.
+- 🔭 I’m currently working on **Frontend Development. I will be moving on to Backend Development in some time to become a Full Stack Developer**
 
-- 🌐 [Personal Website](https://aryan-prog.github.io/google-portfolio/)
-- 📧 seth.aryan605@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-seth-9190b1196/)
-- [Leetcode](https://leetcode.com/mandelakalam12364/)
+- 🌱 I’m currently learning **ReactJS, NextJS, CSS, TailwindCSS, Firebase, Redux etc...**
 
-- 🔭 I’m currently working on Frontend Development. I will be moving on to Backend Development in some time to become a Full Stack Developer
-- 🌱 I’m currently learning ReactJS, NextJS, CSS, TailwindCSS, Firebase, Redux etc...
-- I would like to collaborate on Projects with Javascript
-- Open to learning new technologies every day
-- 💬 Ask me about Web Development
-- ⚡ Fun fact: I love playing with Sudoku and Javascript
-- Avid Cricket Fan
+- 👨‍💻 All of my projects are available at [aryan-prog.github.io/google-portfolio/](aryan-prog.github.io/google-portfolio/)
 
+- 💬 Ask me about **ReactJS, Javascript, NextJS**
+
+- 📫 How to reach me **seth.aryan605@gmail.com**
+
+- ⚡ Fun fact **I love playing with Sudoku and Javascript**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aryan-seth-9190b1196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-seth-9190b1196" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mandelakalam12364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mandelakalam12364" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-prog&show_icons=true&locale=en&layout=compact" alt="aryan-prog" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-prog&" alt="aryan-prog" /></p>
