@@ -101,6 +101,3 @@ I'm a passionate software developer with a love for clean code and innovative so
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
