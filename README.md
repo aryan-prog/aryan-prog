@@ -41,7 +41,7 @@ I'm a passionate software developer with a love for clean code and innovative so
 - How to reach me: seth.aryan605@gmail.com  
   
 
-- All of my projects are available at [aryan-prog.github.io/google-portfolio/](aryan-prog.github.io/google-portfolio/)  
+- All of my projects are available at [Personal Portfolio Website](https://aryan-seth-28.netlify.app/)  
 
 
 </td><td valign="top" width="50%">
